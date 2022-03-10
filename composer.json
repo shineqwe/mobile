@@ -1,5 +1,5 @@
 {
-  "name": "me-io/appium-driver-codeception",
+  "name": "max/appium",
   "description": "appium driver for codeception framework",
   "keywords": [
     "BDD",
@@ -20,7 +20,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.0",
-    "codeception/codeception": "~2",
+    "codeception/codeception": "4.1",
     "phpunit/phpunit-selenium": "~4",
     "symfony/console": "~4",
     "squizlabs/php_codesniffer": "*"
